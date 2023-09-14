@@ -21,7 +21,7 @@
 
  Scaricare tutti e 3 i file contenuti nel repository, verificare di averli tutti nella stessa 
  cartella per poter accedere ai dati e ai pesi di inizializzazione delle reti, altrimenti basterà
- cambiare i path contenuti negli upload del main.
+ cambiare i paths contenuti negli upload del main.
 
  ---
 
