@@ -20,7 +20,7 @@ Download all three files from the repository and ensure they are in the same fol
 
  ---
 
- Autore: Andrea Caputo
+ Author: Andrea Caputo
  
  
- Mail: andrea.caputo275@edu.unito.it
+ Contact: andrea.caputo275@edu.unito.it
