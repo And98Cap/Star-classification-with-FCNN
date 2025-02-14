@@ -1,27 +1,22 @@
-# Classificazione stelle con FCNN
+# Star classification with FCNN
 
 ---
 
-## Obiettivo
- Scopo del programma è classificare il tipo di stella tra 6 diverse classi utilizzando i dati di 
- Temperatura assoluta [K], Luminosità relativa [] , Raggio relativo [], Magnitudine assoluta 
- [], Colore [], Classe spettrale [] e una rete neurale fully connected con un unico hidden 
- layer.
+## Objective
+ The purpose of the project is to classify the type of star into one of six different classes using data on Absolute Temperature [K], Relative Luminosity [], Relative Radius [], Absolute Magnitude [], Color [], Spectral Class [], and a fully connected neural network with a single hidden layer.
 
  ---
 
- ## Contenuti
-  - Main del progetto in python (Star project (final).ipynb)
-  - Dati in .csv per training e testing (Stars.csv)
-  - Inizializzazione pesi delle reti neurali implementate (model.h5)
+ ## Contents
+  - Main python project (Star project (final).ipynb)
+  - Training and test data (Stars.csv)
+  - Implemented network saved wieghts (model.h5)
   
  ---
 
- ## Uso
+ ## Usage
 
- Scaricare tutti e 3 i file contenuti nel repository, verificare di averli tutti nella stessa 
- cartella per poter accedere ai dati e ai pesi di inizializzazione delle reti, altrimenti basterà
- cambiare i paths contenuti negli upload del main.
+Download all three files from the repository and ensure they are in the same folder to access the data and the initialization weights of the networks. Otherwise, simply update the paths in the uploads of the main file.
 
  ---
 
