@@ -8,7 +8,7 @@
  ---
 
  ## Contents
-  - Main python project (Star project (final).ipynb)
+  - Main python project (Star project (en).ipynb)
   - Training and test data (Stars.csv)
   - Implemented network saved wieghts (model.h5)
   
